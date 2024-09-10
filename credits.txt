@@ -1,8 +1,13 @@
+ Slendytubbies 2D Revolution - Gally's Collection
+
 Development Team:
-John Doe - Lead Developer
-Jane Doe - Designer
-Mark Smith - Sound Engineer
+Gally - Lead Developer
+DWStudios - Gamejolt Login
+Tainted Launixen, Amero - Designer
+DrannexFox - Map Maker
 
 Special Thanks:
-Unity Community
+ArtemisAlysa
+
+Slendytubbies Community
 OpenAI GPT-4
